@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <style>
+          @import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo:wght@700&display=swap');
+          th {
+            font-family: 'Nanum Myeongjo', serif;
+          }
+
+          @import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap');
+          p {
+            font-family: 'Nanum Gothic', sans-serif;
+          }
+
+          @import url('https://fonts.googleapis.com/css2?family=Do+Hyeon&display=swap');
+          h1, h2, h3 {
+            font-family: 'Do Hyeon', sans-serif;
+          }
+
+            table {
+              color: white;
+              background-color: black;
+              padding: 3px;
+              border-spacing: 10px;
+            }
+
+            a {
+                color: white;
+                text-decoration: none;
+            }
+            th {
+              padding: 18px;
+            }
+        </style>
+    </head>
+
+    <body>
+      <table style="width:100%">
+         <tr>
+            <th><a href="../rhkwp/guckkasten.html"> GUCKKASTEN </a></th>
+            <th><a href="../rhkwp/one.html"> 1집(Guckkasten) </a></th>
+            <th><a href="../rhkwp/two.html"> 2집(FRAME) </a></th> 
+            <th><a href="../rhkwp/other.html"> EP 및 싱글 </a></th>
+        </tr>
+      </table>
+    <center>
+      <h1>밴드소개</h1>
+      <img src="../guck/rnrzktmxps.png" style="width:426px;height:284px;">
+      <h1>&nbsp;</h1>
+      <h2>GUCKKASTEN</h2>
+      <p>국카스텐은 4명으로 구성된 사이키델릭 록 밴드이며 2008년도에 데뷔했다.</p>
+      <p>국카스텐의 모든 음악은 직접 작사,작곡을 하며,사이키델릭 록 답게 가사가 매우 난해하며 사운드가 독특한 것이 특징이다.</p>
+      <p>현재까지 정규 앨범은 1집(GUCKKASTEN)과 2집(FRAME) 총 2가지 이며 나머지는 EP앨범이나 싱글앨범으로 되어있다.</p>
+      <h1>&nbsp;</h1>
+      <h3>밴드 명</h3>
+      <p>밴드 이름인 '국카스텐(Guckkasten)'은 중국식만화경을 뜻하는 독일어이다.</p>
+      <p>나무상자 안을 들여다봤을 때 화려한 이미지가 펼쳐지는 만화경처럼 음악을 통해 표현하겠다는 뜻을 담고 있다고 한다.</p>
+      <h1>&nbsp;</h1>
+      <h3>맴버 소개</h3>
+      <h2>&nbsp;</h2>
+      <img  src="../guck/dfdse.jpg" style="width:180px;height:250px;">
+      <b><p>하현우(보컬)</p></b>
+      <b><p>1981 . 11 . 25</p></b>
+      <h3>&nbsp;</h3>
+      <img src="../guck/wjsrbgh.jpg" style="width:180px;height:250px;">
+      <b><p>전규호(기타)</p></b>
+      <b><p>1979 . 10 . 08</p></b>
+      <h3>&nbsp;</h3>
+      <img src="../guck/dlwjdrlf.jpg" style="width:180px;height:250px;">
+      <b> <p>이정길(드럼)</p></b>
+      <b><p>1982 . 02 . 17</p></b>
+      <h3>&nbsp;</h3>
+      <img src="../guck/rsrsr.jpg" style="width:180px;height:250px;">
+      <b><p>김기범(베이스)</p></b>
+      <b><p>1985 . 03 . 22</p></b>
+      <h1>&nbsp;</h1>
+      <h1>&nbsp;</h1>
+    </center>
+    </body>
+</html>
